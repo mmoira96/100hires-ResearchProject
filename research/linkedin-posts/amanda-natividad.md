@@ -17,7 +17,7 @@ Amanda Natividad is a respected B2B marketing leader known for her work on audie
 ### Post 1
 
 * URL: https://www.linkedin.com/posts/amandanat_b2b-buyers-are-on-linkedin-is-true-its-activity-7460350666750955520-BCTa
-* Date: November 2025
+* Date: May 2026
 * Summary:
   Amanda challenged the common statement that "B2B buyers are on LinkedIn" by explaining that while it is true, buyers are also active across many other channels. Marketers should avoid over-focusing on a single platform and instead understand broader audience behavior.
 * Key Takeaway:
@@ -28,7 +28,7 @@ Amanda Natividad is a respected B2B marketing leader known for her work on audie
 ### Post 2
 
 * URL: https://www.linkedin.com/posts/amandanat_have-you-considered-that-perhaps-b2b-buyers-activity-7453099134108012544-6ALy
-* Date: October 2025
+* Date: May 2026
 * Summary:
   Amanda discussed how marketers often misunderstand buyer behavior by assuming prospects actively seek marketing content. She emphasized creating content that aligns with buyer interests and natural information consumption habits.
 * Key Takeaway:
@@ -39,7 +39,7 @@ Amanda Natividad is a respected B2B marketing leader known for her work on audie
 ### Post 3
 
 * URL: https://www.linkedin.com/posts/amandanat_your-brands-public-record-is-being-written-activity-7449837643539849216-uPeh
-* Date: October 2025
+* Date: April 2026
 * Summary:
   Amanda explained that every piece of content contributes to a brand's public reputation. Consistent publishing shapes how prospects perceive a company over time.
 * Key Takeaway:
