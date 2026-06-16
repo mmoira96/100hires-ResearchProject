@@ -119,3 +119,9 @@ This is an active research repository. If you are reviewing or extending this wo
 ## License
 
 License to be determined. Check back before redistributing or adapting materials from this repository.
+
+## API Usage
+
+YouTube transcripts were collected using the Supadata Transcript API.
+
+The API was used to retrieve transcript data from selected expert videos and support qualitative analysis alongside LinkedIn post research.

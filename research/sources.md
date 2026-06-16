@@ -1,18 +1,26 @@
 # Research Sources
 
-Curated experts and references for the LinkedIn Organic Content Strategy for B2B SaaS research project. Profile links will be added as sources are formally reviewed.
+Curated experts and references for the LinkedIn Organic Content Strategy for B2B SaaS research project.
 
 ## Expert Sources
 
-| Expert Name | Company/Role | Main Platform | Profile Link | Date Collected | Reason for Selection |
-|-------------|--------------|---------------|--------------|----------------|----------------------|
-| Dave Gerhardt | Founder, Exit Five | LinkedIn | | 2026-06-16 | Pioneer of founder-led B2B brand building; built Exit Five through LinkedIn-native content, podcast, and community. |
-| Chris Walker | CEO, ENCODED (formerly Founder, Refine Labs) | LinkedIn | | 2026-06-16 | Reshaped B2B demand generation discourse; extensive LinkedIn thought leadership on dark social and pipeline creation for SaaS. |
-| Adam Robinson | Founder & CEO, RB2B / Retention.com | LinkedIn | | 2026-06-16 | Documents bootstrapped B2B SaaS growth in public on LinkedIn; demonstrates high-volume organic content tied to product-led GTM. |
-| Sam Dunning | Founder, Breaking B2B | LinkedIn | | 2026-06-16 | Hosts a top B2B marketing podcast focused on SaaS revenue growth; publishes actionable organic marketing guidance for B2B teams. |
-| Daniel Murray | Co-founder, The Marketing Millennials | LinkedIn | | 2026-06-16 | Runs a leading B2B marketing media brand; consistently surfaces LinkedIn and content strategy playbooks from practitioners. |
-| Amanda Natividad | Chief Evangelist, SparkToro | LinkedIn | | 2026-06-16 | Creator of the "zero-click content" framework; advocates for native social content that builds trust without driving off-platform clicks. |
-| Devin Reed | Founder, The Reeder | LinkedIn | | 2026-06-16 | Scaled Gong's LinkedIn following from 12K to 150K; advises B2B SaaS on executive LinkedIn playbooks and durable content systems. |
-| Gaetano DiNardi | Growth Advisor, Marketing Advice | LinkedIn | | 2026-06-16 | Advises 50+ B2B SaaS companies on demand generation; shares organic growth and content strategy insights on LinkedIn and Substack. |
-| Anthony Blatner | Founder, Speedwork | LinkedIn | | 2026-06-16 | Top LinkedIn Certified Marketing Expert; deep platform expertise spanning organic thought leadership and B2B campaign strategy. |
-| Evelyn Cools | Fractional Head of Marketing / Growth Advisor | LinkedIn | | 2026-06-16 | Helps early-stage B2B startups build marketing from zero; publishes on LinkedIn strategy and employee-generated content for SaaS GTM. |
+| Expert Name           | Company/Role                                 | Main Platform | Profile Link                                 | Date Collected | Reason for Selection                                                                                                                |
+| --------------------- | -------------------------------------------- | ------------- | -------------------------------------------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Dave Gerhardt         | Founder, Exit Five                           | LinkedIn      | https://www.linkedin.com/in/davegerhardt/    | 2026-06-16     | Pioneer of founder-led B2B brand building; built Exit Five through LinkedIn-native content, podcast, and community.                 |
+| Liam Moroney          | Founder, Storybook Marketing                 | LinkedIn      | https://www.linkedin.com/in/liammoroney/     | 2026-06-16     | Shares practical insights on trust-building, demand generation, positioning, and modern B2B marketing strategy.                     |
+| Amanda Natividad      | Chief Evangelist, SparkToro                  | LinkedIn      | https://www.linkedin.com/in/amandanat/       | 2026-06-16     | Creator of the zero-click content framework; advocates for native social content that builds trust without requiring clicks.        |
+| Anthony Blatner       | Founder, Speedwork                           | LinkedIn      | https://www.linkedin.com/in/anthonyblatner/  | 2026-06-16     | Top LinkedIn marketing practitioner with expertise in organic growth, audience building, and LinkedIn advertising.                  |
+| Chintamani Modak      | B2B SaaS Growth & AI Strategy Consultant     | LinkedIn      | https://www.linkedin.com/in/chintamanimodak/ | 2026-06-16     | Shares actionable insights on SaaS growth, AI adoption, retention, and customer acquisition strategies.                             |
+| Dharmesh Shah         | Co-Founder & CTO, HubSpot                    | LinkedIn      | https://www.linkedin.com/in/dharmesh/        | 2026-06-16     | One of the most influential SaaS founders; provides thought leadership on AI, product strategy, storytelling, and company building. |
+| Rand Fishkin          | Co-Founder, SparkToro                        | LinkedIn      | https://www.linkedin.com/in/randfishkin/     | 2026-06-16     | Leading authority on audience research, zero-click marketing, and modern content distribution strategies.                           |
+| Ann Handley           | Chief Content Officer, MarketingProfs        | LinkedIn      | https://www.linkedin.com/in/annhandley/      | 2026-06-16     | Pioneer in content marketing and storytelling; emphasizes human-centered communication in B2B marketing.                            |
+| Sara Stella Lattanzio | B2B SaaS Marketing & Partnerships Consultant | LinkedIn      | https://www.linkedin.com/in/saralattanzio/   | 2026-06-16     | Focuses on SaaS partnerships, ecosystem growth, AI marketing, and business collaboration strategies.                                |
+| Tommy Clark           | Founder, Clark Media                         | LinkedIn      | https://www.linkedin.com/in/tclarkmedia/     | 2026-06-16     | Specializes in founder-led content, personal branding, and LinkedIn organic growth for B2B SaaS companies.                          |
+
+## YouTube Transcript Sources
+
+| Expert        | Video URL                                   | Collection Method       |
+| ------------- | ------------------------------------------- | ----------------------- |
+| Dave Gerhardt | https://www.youtube.com/watch?v=UB8ZJ01N3bk | Supadata Transcript API |
+| Rand Fishkin  | https://www.youtube.com/watch?v=Drk91_rpvXM | Supadata Transcript API |
+| Tommy Clark   | https://www.youtube.com/watch?v=L--kLyKyqa0 | Supadata Transcript API |
