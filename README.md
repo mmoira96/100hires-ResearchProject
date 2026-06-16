@@ -2,8 +2,7 @@
 
 A structured research project examining how B2B SaaS companies can build effective organic content strategies on LinkedIn. This repository documents the research process, sources, and synthesized outputs as the work progresses.
 
-> **Status:** Research in progress. Findings and recommendations will be added as analysis is completed.
-
+> **Status:** Initial research completed. Expert analysis, transcript collection, and pattern synthesis have been documented.
 ---
 
 ## Project Overview
@@ -45,14 +44,21 @@ This research treats LinkedIn as a strategic channel—not a vanity metrics exer
 
 ```
 linkedin-organic-content-strategy-b2b-saas/
-├── README.md                 # Project overview and research scope (this file)
+├── README.md
 └── research/
-    ├── sources.md            # Curated bibliography of articles, talks, and references
+    ├── sources.md
+    ├── linkedin-posts/
+    ├── youtube-transcripts/
+    │   ├── dave-gerhardt-transcript.md
+    │   ├── dave-gerhardt-transcript.txt
+    │   ├── rand-fishkin-transcript.md
+    │   ├── rand-fishkin-transcript.txt
+    │   ├── tommy-clark-transcript.md
+    │   └── tommy-clark-transcript.txt
     └── other/
-        └── research-notes.md # Working notes, observations, and draft synthesis
+        ├── api-collection-log.md
+        └── research-notes.md
 ```
-
-Additional directories and documents may be added as the research matures (e.g., expert profiles, content pattern libraries, framework drafts).
 
 ---
 
@@ -106,6 +112,30 @@ Final deliverables will be published in this repository as markdown documents. U
 
 ---
 
+## Research Scope Completed
+
+The completed research includes:
+
+* 10 B2B SaaS experts analyzed
+* 30 LinkedIn posts reviewed and documented
+* 3 YouTube transcripts collected using the Supadata Transcript API
+* Expert-by-expert content analysis
+* API collection logging and transcript documentation
+
+### Experts Researched
+
+1. Dave Gerhardt
+2. Liam Moroney
+3. Amanda Natividad
+4. Anthony Blatner
+5. Chintamani Modak
+6. Dharmesh Shah
+7. Rand Fishkin
+8. Ann Handley
+9. Sara Stella Lattanzio
+10. Tommy Clark
+
+
 ## Contributing & Usage
 
 This is an active research repository. If you are reviewing or extending this work:
@@ -124,4 +154,10 @@ License to be determined. Check back before redistributing or adapting materials
 
 YouTube transcripts were collected using the Supadata Transcript API.
 
-The API was used to retrieve transcript data from selected expert videos and support qualitative analysis alongside LinkedIn post research.
+Three expert videos were selected for transcript analysis:
+
+- Dave Gerhardt
+- Rand Fishkin
+- Tommy Clark
+
+The API was used to retrieve transcript data which was then summarized, analyzed, and documented within the repository to support qualitative research alongside LinkedIn content analysis.
