@@ -17,7 +17,7 @@ Chintamani Modak shares practical insights on SaaS growth, retention, product ad
 ### Post 1
 
 * URL: https://www.linkedin.com/posts/chintamani-modak-55b2065_retainiq-aiagent-b2bsaas-activity-7471457791514157058-cJsA
-* Date: December 2025
+* Date: June 2026  
 * Summary:
   Chintamani discussed the use of AI agents within SaaS workflows and how AI can improve customer engagement and operational efficiency. The post highlighted opportunities for SaaS companies to leverage automation while maintaining customer value.
 * Key Takeaway:
@@ -28,7 +28,7 @@ Chintamani Modak shares practical insights on SaaS growth, retention, product ad
 ### Post 2
 
 * URL: https://www.linkedin.com/posts/chintamani-modak-55b2065_saas-teams-struggle-with-data-activity-7468637294443352065-LsGD
-* Date: December 2025
+* Date: June 2026  
 * Summary:
   Chintamani explained how many SaaS teams struggle with fragmented or underutilized data. He emphasized the importance of turning data into actionable insights that support decision-making.
 * Key Takeaway:
@@ -39,7 +39,7 @@ Chintamani Modak shares practical insights on SaaS growth, retention, product ad
 ### Post 3
 
 * URL: https://www.linkedin.com/posts/chintamani-modak-55b2065_most-saas-teams-are-optimising-the-wrong-activity-7467156916767514625-_yjW
-* Date: December 2025
+* Date: June 2026  
 * Summary:
   Chintamani argued that many SaaS organizations focus on vanity metrics rather than indicators that directly impact growth and retention. He encouraged teams to align metrics with business outcomes.
 * Key Takeaway:
