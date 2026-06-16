@@ -1,5 +1,7 @@
 # API Collection Log
 
+## Transcript #1 
+## Expert
 ## Dave Gerhardt
 
 Video:
@@ -18,7 +20,7 @@ Raw transcript archived locally during analysis.
 ## Transcript #2
 ## Expert
 
-Rand Fishkin
+## Rand Fishkin
 
 Video URL
 
